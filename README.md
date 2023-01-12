@@ -1,3 +1,6 @@
+<p align="center"><img src="https://raw.githubusercontent.com/z1g-project/BruhProx/main/static/uv.png" height="200">
+</p>
+
 # Chrome-BruhProx-App
 The BruhProx Application for Google Chrome (Works on chromebooks and doesnt show in search history)
 
